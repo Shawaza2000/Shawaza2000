@@ -1,3 +1,11 @@
+##
+<p><img align="center" src="https://github.com/Alba070503/Alba070503/blob/main/3AyY.gif" alt="Alba070593" /></p>
+
+##
+
+
+
+
 
 
 # information:
@@ -12,3 +20,6 @@
  <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=Shawaza2000&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
     alt="Shawaza2000" /> </p>
 
+<p align="lift"> <img src="https://komarev.com/ghpvc/?username=Shawaza2000-pw&label=Profile%20views&bg_color=0d1117&text_color=ffffff&style=flat"
+    alt="Shawaza2000" /> 
+  </p>
